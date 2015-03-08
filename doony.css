@@ -733,10 +733,8 @@ a.yuimenulabel, a.yuimenuitemlabel,
 }
 
 .doony-build {
-  height: 10px;
-  visibility: hidden;
-  width: 25px;
   margin: 0 0 15px 30px;
+  min-width: 100px;
 }
 
 #doony-title {
